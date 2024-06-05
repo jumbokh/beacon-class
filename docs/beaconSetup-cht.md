@@ -55,7 +55,7 @@
      - \(T_{j,m}\) 表示第\(m\)個參考點的第\(j\)個RSSI值
      - \(R_{j,i}\) 表示第\(i\)個移動點的第\(j\)個RSSI值
      - \(N\) 為參考點的總數
-
+![al](https://github.com/jumbokh/beacon-class/blob/main/images/alogrithm1.png)
 ### 實驗步驟總結
 1. **準備實驗場地**：選擇適合的室內和室外場地，進行區域劃分。
 2. **設置藍牙Beacon**：在指定位置放置Beacon，並記錄其位置。
